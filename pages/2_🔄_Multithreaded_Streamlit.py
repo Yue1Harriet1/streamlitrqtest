@@ -4,8 +4,8 @@ import pandas as pd
 import threading
 import os
 from sqlalchemy import create_engine
-import rqueue.ui_streamlit as ui
-import rqueue.task as task
+import streamlitrq.ui_streamlit as ui
+import streamlitrq.task as task
 import time
 from streamlit.runtime.scriptrunner import add_script_run_ctx
 

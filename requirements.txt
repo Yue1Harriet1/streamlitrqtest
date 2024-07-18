@@ -32,17 +32,18 @@ platformdirs
 pluggy
 protobuf==4.25.3
 pyarrow==16.0.0
-pycosat
 pycparser
 pydeck==0.9.0b0
 Pygments==2.17.2
 PySocks
 python-dateutil==2.9.0.post0
 pytz==2024.1
+redis==5.0.7
 referencing==0.35.0
 requests
 rich==13.7.1
 rpds-py==0.18.0
+rq==1.16.2
 ruamel.yaml
 setuptools==69.5.1
 six==1.16.0
@@ -60,4 +61,4 @@ urllib3
 watchdog==4.0.0
 wheel==0.41.2
 zstandard
-git+https://github.com/Yue1Harriet1/r.git
+git+https://github.com/Yue1Harriet1/streamlitrq.git

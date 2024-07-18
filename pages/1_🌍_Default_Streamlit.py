@@ -3,8 +3,8 @@ import streamlit as st
 import pandas as pd
 import os
 from sqlalchemy import create_engine
-import rqueue.ui_streamlit as ui
-import rqueue.task as task
+import streamlitrq.ui_streamlit as ui
+import streamlitrq.task as task
 import time
 
 # Global Variables

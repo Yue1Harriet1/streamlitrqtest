@@ -1,10 +1,10 @@
 # Libraries
 import streamlit as st
 import pandas as pd
-import rqueue.ui_streamlit as ui
+import streamlitrq.ui_streamlit as ui
 import os
 from sqlalchemy import create_engine
-from rqueue import task
+from streamlitrq import task
 import time
 import mytask
 
